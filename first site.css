@@ -8,16 +8,16 @@ body {
 }
      
 a {
-  color: #000000;
+  color: white;
 }
 
 a:visited {
   
-  color: #3c071b;
+  color: #757575;
       }
       
 a:hover {
-  color: white;
+  color: #b30056;
       }
       
 ul {
@@ -97,7 +97,7 @@ ul {
       
 .flat-page header .links li {
   margin-left: 10px;
-  color: white;
+  color: #b30056;
   cursor: pointer;
   transition: .3s;
 }
@@ -112,7 +112,7 @@ ul {
   border-radius: 20px;
   padding: 10px 20px;
   color: #FFF;
-  background-color: white;
+  background-color: #000000;
 }
 
 
@@ -152,8 +152,8 @@ ul {
 .flat-page .content .info p {
   margin: 0;
   line-height: 1.6;
-  font-size: 15px;
-  color: white;
+  font-size: 19px;
+  color: #9b0303;
 }
 
 .flat-page .content .info button {
